@@ -1,0 +1,15 @@
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.BLL\bin\Debug\net6.0\Demo.BLL.deps.json
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.BLL\bin\Debug\net6.0\Demo.BLL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.BLL\bin\Debug\net6.0\Demo.BLL.pdb
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.BLL\bin\Debug\net6.0\Demo.DAL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.BLL\bin\Debug\net6.0\Demo.DAL.pdb
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CopyComplete
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.BLL\obj\Debug\net6.0\refint\Demo.BLL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.pdb
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.BLL\obj\Debug\net6.0\ref\Demo.BLL.dll
