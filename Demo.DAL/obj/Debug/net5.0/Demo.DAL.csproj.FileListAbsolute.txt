@@ -1,0 +1,69 @@
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 02\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 02\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 02\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 02\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 02\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 02\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 02\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 02\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 02\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 02\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 02\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 02\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 03\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 03\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 03\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 03\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 03\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 03\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 03\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 03\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 03\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 03\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 03\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 03\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 04\MVC S04\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 04\MVC S04\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 04\MVC S04\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 04\MVC S04\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 04\MVC S04\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 04\MVC S04\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 04\MVC S04\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 04\MVC S04\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 04\MVC S04\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 04\MVC S04\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 04\MVC S04\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 04\MVC S04\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 04\MVC S04\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 04\MVC S04\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 04\MVC S04\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 05\MVC S05\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 05\MVC S05\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 05\MVC S05\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 05\MVC S05\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 05\MVC S05\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 05\MVC S05\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 05\MVC S05\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 05\MVC S05\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 05\MVC S05\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 05\MVC S05\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 05\MVC S05\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 05\MVC S05\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 05\MVC S05\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 05\MVC S05\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 05\MVC S05\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+E:\Courses\.NET\05 ASP.NET Core MVC\Session 06\MVC S05\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
