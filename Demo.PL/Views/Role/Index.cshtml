@@ -1,0 +1,64 @@
+﻿@model IEnumerable<RoleViewModel>
+
+
+@{
+    ViewData["Title"] = "Roles";
+}
+
+<h1>Roles</h1>
+<br />
+<br />
+
+<a asp-action="Create" class="btn btn-primary">Create New Role</a>
+
+
+@*Search Function*@
+<div class="row justify-content-center align-items-center mt-3">
+    <form asp-action="Index" class="row col-8 offset-3">
+        <div class="col-8">
+            <input type="text" class="form-control" name="name" placeholder="Search By Name...." />
+        </div>
+        <div class="col-4">
+            <input type="submit" value="Search" class="btn btn-success" />
+        </div>
+    </form>
+
+</div>
+
+@*lw ana fe action w hro7 3la action tany fe nafs el controller f ana m4 m7atg aktb asp-controller=""*@
+@*asp-route-id="@Employee.Id" ==> 3l4an ya5od el id bta3 el dept lly hygeb el bayanat bta3to*@
+@if (Model.Count() > 0)
+{
+    <table class="mt-3 table table-striped table-hover">
+        <thead>
+            <tr>
+                <td>@Html.DisplayNameFor(R => R.Id)</td>
+                <td>@Html.DisplayNameFor(R => R.RoleName)</td>
+                
+                <td>Details</td>
+                <td>Update</td>
+                <td>Delete</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var role in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(R => role.Id)</td>
+                    <td>@Html.DisplayFor(R => role.RoleName)</td>
+                    
+
+                @*PartialView*@
+                    <partial name="_ButtonsPartialView" model="@role.Id" />
+                </tr>
+                
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-warning">
+        <h3>There is No Role !</h3>
+    </div>
+}

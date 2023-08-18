@@ -1,0 +1,99 @@
+﻿@*@using Demo.DAL.Models; @* btt7t fe file ViewImports*@
+@model IEnumerable<EmployeeViewModel>
+
+
+@{
+    ViewData["Title"] = "All Employee";
+    //ViewBag.Title = "Index"; // Depend on Layout
+}
+
+@*Binding Using ViewData :*@
+@*<div class ="alert alert-danger"> 
+    @ViewData["Message"]  
+</div>
+*@
+
+@*Binding Using ViewBag :*@
+@*<div class="alert alert-success">
+    @ViewBag.Msg
+</div>
+*@
+
+@*@Html.DisplayNameFor(LambdaExpression) => to Make Sure That data is valid (3l4an mnd5l4 haga m4 mwgoda asln fe el table)*@
+
+<h1>Employees</h1>
+<br />
+<br />
+<a asp-action="Create" class="btn btn-primary">Create New Employee</a>
+<br />
+<br />
+
+
+@*Search Function*@
+<div class="row justify-content-center align-items-center mt-5">
+    <form  asp-action="Index" class="row col-8 offset-3">
+        <div class="col-8">
+            <input type="text" class="form-control" name="SearchValue" placeholder="Search By Name...." />
+        </div>
+        <div class="col-4">
+            <input type="submit" value="Search" class="btn btn-success" />
+        </div>
+    </form>
+
+</div>
+
+@*lw ana fe action w hro7 3la action tany fe nafs el controller f ana m4 m7atg aktb asp-controller=""*@
+@*asp-route-id="@Employee.Id" ==> 3l4an ya5od el id bta3 el dept lly hygeb el bayanat bta3to*@
+@if(Model.Count() > 0 )
+{
+    <table class="mt-3 table table-striped table-hover">
+        <thead>
+            <tr>
+                <td>@Html.DisplayNameFor(E => E.Image)</td>
+                <td>@Html.DisplayNameFor(E => E.Name)</td>
+                <td>@Html.DisplayNameFor(E => E.Age)</td>
+                <td>@Html.DisplayNameFor(E => E.Address)</td>
+                <td>@Html.DisplayNameFor(E => E.Department)</td>
+                <td>@Html.DisplayNameFor(E => E.Salary)</td>
+                <td>@Html.DisplayNameFor(E => E.PhoneNumber)</td>
+                <td>@Html.DisplayNameFor(E => E.Email)</td>
+                <td>@Html.DisplayNameFor(E => E.IsActive)</td>
+                <td>@Html.DisplayNameFor(E => E.HireDate)</td>
+                <td>Details</td>
+                <td>Update</td>
+                <td>Delete</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in Model)
+            {
+                <tr>
+                    <td>
+                        <img src="~/Files/images/@employee.ImageName" class="img-fluid rounded" alt="Employee Image" height="30" width="30" />
+                    </td>
+                    <td>@employee.Name</td>
+                    <td>@employee.Age</td>
+                    <td>@employee.Address</td>
+                    @*<td>@employee.Department?.Name</td>*@
+                    <td>@Html.DisplayFor(M => employee.Department.Name)</td>                   
+                    <td>@Html.DisplayFor(M => employee.Salary )</td>
+                    <td>@employee.PhoneNumber</td>
+                    <td>@Html.DisplayFor(M => employee.Email)</td>
+                    @*<td>@employee.IsActive</td>*@
+                    <td>@Html.DisplayFor(M => employee.IsActive)</td>
+                    <td>@employee.HireDate</td>
+                    
+                    @*PartialView*@
+                    <partial name = "_ButtonsPartialView" model = "@employee.Id.ToString()" />
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-warning">
+        <h3>There is No Employees !</h3>
+    </div>
+}

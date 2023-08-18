@@ -1,0 +1,22 @@
+﻿@model string // model
+
+
+
+
+<td>
+    <a  asp-action="Details" asp-route-id="@Model" class="btn btn-warning">
+        <i class="fas fa-eye"></i> Details @*ButtonName*@
+    </a>
+</td>
+
+<td>
+    <a  asp-action="Edit" asp-route-id="@Model" class="btn btn-success">
+        <i class="fas fa-edit"></i> Update @*ButtonName*@
+    </a>
+</td>
+
+<td>
+    <a  asp-action="Delete" asp-route-id="@Model" class="btn btn-danger">
+        <i class="fas fa-trash"></i> Delete @*ButtonName*@
+    </a>
+</td>
