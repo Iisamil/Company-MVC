@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ragab\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ragab\\.nuget\\packages"
+    ]
+  }
+}
